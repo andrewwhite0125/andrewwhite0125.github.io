@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>老白出海</title>
+    <link>http://example.com/</link>
+    
+    <image>
+      <url>http://example.com/icon.png</url>
+      <title>老白出海</title>
+      <link>http://example.com/</link>
+    </image>
+    
+    <atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>老白出海是一个独立站教学博客，免费提供最好的外贸建站教程，帮助跨境外贸新手做好Shopify独立站引流，WordPress建站，谷歌SEO优化，社交媒体营销，电子邮件推广和跨境电商运营。</description>
+    <pubDate>Mon, 16 May 2022 08:14:52 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.com/hello-world/</link>
+      <guid>http://example.com/hello-world/</guid>
+      <pubDate>Mon, 16 May 2022 08:14:52 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Shopify 是什么？是跟 Amazon 类似的跨境电商平台吗？当然不是。Shopify 是一个能够让卖家自主管理在线店铺的平台，你要做的只是在Shopify</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://example.com/categories/Shopify/">Shopify</category>
+      
+      
+      <category domain="http://example.com/tags/Shopify/">Shopify</category>
+      
+      
+      <comments>http://example.com/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
